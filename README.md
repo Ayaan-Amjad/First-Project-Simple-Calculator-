@@ -1,2 +1,2 @@
 # Python-Projects-By-Ayaan
-Small project . Big first step
+Small projects . Big first step
